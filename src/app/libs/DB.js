@@ -28,7 +28,7 @@ export const DB = {
     },
     {
       courseNo: "001101",
-      title: " FUNDAMENTAL ENGLISH 1",
+      title: "FUNDAMENTAL ENGLISH 1",
     },
   ],
   enrollments: [
